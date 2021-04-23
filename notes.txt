@@ -1,0 +1,3 @@
+1. 2x straight, 1x corners, 1x recovery -> Straight too biased on yellow
+2. Augment by flipping -> yellow corners under biased, drove into dirt
+3. Augment by offsetting left and right by +-1 ->  made it around the track!
